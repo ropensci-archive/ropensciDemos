@@ -1,18 +1,3 @@
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
 
-# rOpenSci Demos
-
-If you're attending a rOpenSci workshop please install the `devtools` package first. 
-
-```coffee
-install.packages('devtools')
-```
-
-Then install this demo package.
-
-
-```coffee
-devtools::install_github("ropensciDemos", "ropensci")
-```
-
-Now load the package with `library(ropensciDemos)` to follow along with the tutorial.
-
+Please refer to [our website](https://ropensci.org/), in particular the [use cases page](https://ropensci.org/usecases/), for use cases of rOpenSci packages.
